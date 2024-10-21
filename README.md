@@ -1,1 +1,2 @@
 # ComfyUI_LSB_Invisible_Watermark
+鲁棒性不强，放在保存图片的前一个节点
